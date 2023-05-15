@@ -21,8 +21,8 @@
     background-color:#007bff!important
 }
 
-/*header style*/
-.header{
+/*hero style*/
+.hero{
     background-image: url('../images/teamtechintellects2.jpeg');
     background-attachment: fixed;
     background-size: cover;
